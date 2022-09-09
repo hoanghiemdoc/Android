@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">nguyenhuyhoang</string>
+    <string-array name="labels_array">
+        <item>Gripe</item>
+       <item>others</item>
+    </string-array>
+</resources>
